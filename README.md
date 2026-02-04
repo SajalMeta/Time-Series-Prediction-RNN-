@@ -110,4 +110,4 @@ The LSTM successfully predicts the phase and amplitude of the unseen test data.
 *   **Transformer Model**: Compare LSTM performance against a Transformer-based architecture.
 
 ---
-*Author: [Your Name]*
+*Created by Sajal Paik | https://github.com/SajalMeta *
